@@ -1,5 +1,6 @@
 # Hexo 搭建博客流程
 
+## server
 ```shell
-npm install hexo-cli -g
+hexo server
 ```
