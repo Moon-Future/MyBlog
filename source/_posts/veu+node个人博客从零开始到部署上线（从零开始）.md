@@ -2,10 +2,12 @@
 title: veu+node个人博客从零开始到部署上线（从零开始）
 date: 2018-11-20 08:00:00
 description: # 概要
-categories: # 目录
-tags: # 标签
-cover: # 封面
-top_img: # 顶部图
+categories: 
+    - 前端 # 目录
+tags: 
+    - Vue # 标签
+cover: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/cover-vue_blog_01.jpg # 封面
+top_img: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/top-vue_blog_01.jpg # 顶部图
 ---
 
 博客第一篇，第一版，vue+node+mysql搭建个人博客，后mysql数据库更换为mongodb，页面布局样式重新设计。

@@ -2,10 +2,13 @@
 title: Vue 全家桶之 KTV 前台收银管理系统 (不想努力啦，回家收钱去)
 date: 2019-01-26 16:45:00
 description: # 概要
-categories: # 目录
-tags: # 标签
-cover: # 封面
-top_img: # 顶部图
+categories: 
+  - 前端
+tags: 
+  - Vue
+  - Node
+cover: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/cover-KTV.jpg # 封面
+top_img: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/top-KTV.jpg # 顶部图
 ---
 
 年关将至，归心似箭。家里在小镇上接手了家小型KTV，发现之前的前台收银管理系统已无法使用，收银员竟然在纸上用笔记录着客人的点单，杂乱无章。之前的管理系统和网上查找的其他的一些系统都大同小异，且都是有些年份的，售后肯定指不上，再者也用不上大多功能，界面也不好看。于是本着学习的态度（收钱的快感）开始使用Vue定制化我们自己需要的 KTV前台收银管理系统。

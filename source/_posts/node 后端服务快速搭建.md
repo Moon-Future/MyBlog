@@ -2,10 +2,12 @@
 title: node 后端服务快速搭建
 date: 2019-07-27 16:57:00
 description: # 概要
-categories: # 目录
-tags: # 标签
-cover: # 封面
-top_img: # 顶部图
+categories:
+  - 前端 # 目录
+tags: 
+  - Node # 标签
+cover: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/cover-node_server.jpg # 封面
+top_img: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/top-node_server.jpg # 顶部图
 ---
 
 # 快速搭建node后端服务

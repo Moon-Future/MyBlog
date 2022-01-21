@@ -2,10 +2,12 @@
 title: Docker 部署 React 全栈应用
 date: 2020-12-20 17:43:00
 description: # 概要
-categories: # 目录
-tags: # 标签
-cover: # 封面
-top_img: # 顶部图
+categories: 
+  - 前端
+tags:
+  - Docker
+cover: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/cover-docker.jpg # 封面
+top_img: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/top-docker.jpg # 顶部图
 ---
 
 ## 前言

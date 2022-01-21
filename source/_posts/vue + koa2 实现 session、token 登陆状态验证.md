@@ -2,10 +2,13 @@
 title: vue + koa2 实现 session、token 登陆状态验证
 date: 2019-08-22 17:00:00
 description: # 概要
-categories: # 目录
-tags: # 标签
-cover: # 封面
-top_img: # 顶部图
+categories: 
+  - 前端 # 目录
+tags: 
+  - session
+  - token # 标签
+cover: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/cover-session_token.jpg # 封面
+top_img: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/top-session_token.jpg # 顶部图
 ---
 
 # Session 登陆与 Token 登陆的区别

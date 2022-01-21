@@ -2,10 +2,12 @@
 title: HTTP 面试知识点汇总
 date: 2020-05-07 17:03:00
 description: # 概要
-categories: # 目录
-tags: # 标签
-cover: # 封面
-top_img: # 顶部图
+categories: 
+   - 前端 # 目录
+tags: 
+   - HTTP # 标签
+cover: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/cover-HTTP.jpg # 封面
+top_img: https://static-1255423800.cos.ap-guangzhou.myqcloud.com/image/blog/top-HTTP.jpg # 顶部图
 ---
 
 ## 1、什么是 HTTP 协议？有什么特点？
